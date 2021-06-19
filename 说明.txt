@@ -1,0 +1,5 @@
+categories	分类
+tags		标签
+about		关于
+frineds		友链
+_post		所写的文章
